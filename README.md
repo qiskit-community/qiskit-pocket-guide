@@ -24,7 +24,7 @@ unzip main.zip
 # Index
 
 ## Chapter 1: Quantum Circuits and Operations
- * Constructing Quantum Circuits
+ * [Constructing Quantum Circuits](chapter01_Quantum_Circuits_and_Operations/chapter01-1_Constructing_Quantum_Circuits.ipynb)
  * Instructions and Gates
  * Parameterized Quantum Circuits
 ## Chapter 2: Running Quantum Circuits
