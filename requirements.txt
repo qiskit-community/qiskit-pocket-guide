@@ -1,0 +1,3 @@
+qiskit-terra~=0.20
+matplotlib~=3.5.2
+pylatexenc~=1.4

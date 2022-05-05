@@ -1,3 +1,26 @@
+# Quick start
+
+## Installing
+
+You need a way to run Python and Jupyter Notebooks:
+```bash
+pip install jupyter
+```
+
+This is tested on Qiskit Terra 0.20. This and other dependencies can be installed via Pip:
+```bash
+pip install -r requirements.txt 
+
+```
+
+## Download and run the chapters
+
+```bash
+wget http://github.com/qiskit-community/qiskit-pocket-guide/archive/refs/heads/main.zip 
+unzip main.zip
+
+```
+
 # Index
 
 ## Chapter 1: Quantum Circuits and Operations
