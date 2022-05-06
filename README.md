@@ -1,5 +1,10 @@
 # Quick start
 
+## Welcome to the Qiskit Pocket Guide code snippets repository!
+
+This repo contains code snippets from the Qiskit Pocket Guide book.
+
+
 ## Installing
 
 You need a way to run Python and Jupyter Notebooks:
