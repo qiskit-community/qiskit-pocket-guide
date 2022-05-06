@@ -1,4 +1,4 @@
-# Welcome to the Qiskit Pocket Guide code snippets repository!
+# Welcome to the Qiskit Pocket Guide book site!
 	  
 [![Qiskit Pocket Guide, by James L. Weaver and Frank J. Harkins](http://covers.oreilly.com/images/9781098112400/cat.gif)](https://www.safaribooksonline.com/library/view/title/9781098112462//)
 	  
