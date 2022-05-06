@@ -1,5 +1,4 @@
 # Welcome to the Qiskit Pocket Guide code snippets repository!
-
 	  
 [![Qiskit Pocket Guide, by James L. Weaver and Frank J. Harkins](http://covers.oreilly.com/images/9781098112400/cat.gif)](https://www.safaribooksonline.com/library/view/title/9781098112462//)
 	  
@@ -7,7 +6,7 @@ In general, you may use the code from Qiskit Pocket Guide in your programs and d
 	  
 We appreciate, but do not require, attribution. An attribution usually includes the title, author, publisher, and ISBN.
 	  
-If you think your use of code examples falls outside fair use or the permission given here, feel free to contact O'Reilly <permissions@oreilly.com>.
+If you think your use of code examples falls outside fair use or the permission given here, feel free to contact O'Reilly at <permissions@oreilly.com>.
 	  
 Please note that the examples are not production code and have not been carefully tested. They are provided "as-is" and come with no warranty of any kind.
 
