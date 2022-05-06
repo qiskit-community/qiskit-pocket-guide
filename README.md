@@ -33,6 +33,9 @@ unzip main.zip
 
 ```
 
+## You may also run the examples in the cloud
+[IBM Quantum Lab](https://quantum-computing.ibm.com/lab)
+
 # Index
 
 ## Chapter 1: Quantum Circuits and Operations
