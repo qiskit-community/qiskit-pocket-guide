@@ -10,7 +10,7 @@ If you think your use of code examples falls outside fair use or the permission 
 	  
 Please note that the examples are not production code and have not been carefully tested. They are provided "as-is" and come with no warranty of any kind.
 
-# Quick start
+# Quick start for running the code examples
 
 ## Installing
 
