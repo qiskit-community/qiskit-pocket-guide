@@ -1,6 +1,4 @@
-# Quick start
-
-## Welcome to the Qiskit Pocket Guide code snippets repository!
+# Welcome to the Qiskit Pocket Guide code snippets repository!
 
 	  
 [![Qiskit Pocket Guide, by James L. Weaver and Frank J. Harkins](http://covers.oreilly.com/images/9781098112400/cat.gif)](https://www.safaribooksonline.com/library/view/title/9781098112462//)
@@ -15,7 +13,7 @@ If you think your use of code examples falls outside fair use or the permission 
 	  
 Please note that the examples are not production code and have not been carefully tested. They are provided "as-is" and come with no warranty of any kind.
 
-
+# Quick start
 
 ## Installing
 
