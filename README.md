@@ -34,7 +34,7 @@ unzip main.zip
 ```
 
 ## You may also run these examples in the cloud
-Import an ipynb file into the [IBM Quantum Lab](https://quantum-computing.ibm.com/lab) 
+Paste or import an example into the [IBM Quantum Lab](https://quantum-computing.ibm.com/lab) 
 
 # Index
 
