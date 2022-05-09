@@ -52,10 +52,10 @@ Paste or import an example into the [IBM Quantum Lab](https://quantum-computing.
  * Quickstart with Transpile
  * Transpiler Passes
 ## Chapter 5: Quantum Information
- * Using Quantum Information States
- * Using Quantum Information Operators
- * Using Quantum Information Channels
- * Using Quantum Information Measures
+ * [Using Quantum Information States](chapter05_Quantum_Information/chapter05-1_Using_Quantum_Information_States.ipynb)
+ * [Using Quantum Information Operators](chapter05_Quantum_Information/chapter05-2_Using_Quantum_Information_Operators.ipynb)
+ * [Using Quantum Information Channels](chapter05_Quantum_Information/chapter05-3_Using_Quantum_Information_Channels.ipynb)
+ * [Using Quantum Information Measures](chapter05_Quantum_Information/chapter05-4_Using_Quantum_Information_Measures.ipynb)
 ## Chapter 6: Operator Flow
  * Creating Operator Flow Expressions
  * Using the Operator Flow State Function classes
