@@ -44,8 +44,8 @@ Paste or import an example into the [IBM Quantum Lab](https://quantum-computing.
  * Parameterized Quantum Circuits
 ## Chapter 2: Running Quantum Circuits
  * [Using the BasicAer Simulators](chapter02_Running_Quantum_Circuits/chapter02-1_Using_the_BasicAer_Simulators.ipynb)
- * Using the Aer Simulators
- * Monitoring Job Status and Obtaining Results
+ * [Using the Aer Simulators](chapter02_Running_Quantum_Circuits/chapter02-2_Using_the_Aer_Simulators.ipynb)
+ * [Monitoring Job Status and Obtaining Results](chapter02_Running_Quantum_Circuits/chapter02-3_Monitoring_Job_Status_and_Obtaining_Results.ipynb)
 ## Chapter 3: Visualizing Quantum Measurements and States
  * Visualizing Measurement Counts
  * Visualizing Quantum States
