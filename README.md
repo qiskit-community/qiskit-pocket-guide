@@ -43,7 +43,7 @@ Paste or import an example into the [IBM Quantum Lab](https://quantum-computing.
  * Instructions and Gates
  * Parameterized Quantum Circuits
 ## Chapter 2: Running Quantum Circuits
- * Using the BasicAer Simulators
+ * [Using the BasicAer Simulators](chapter02_Running_Quantum_Circuits/chapter02-1_Using_the_BasicAer_Simulators.ipynb)
  * Using the Aer Simulators
  * Monitoring Job Status and Obtaining Results
 ## Chapter 3: Visualizing Quantum Measurements and States
