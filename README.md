@@ -57,9 +57,9 @@ Paste or import an example into the [IBM Quantum Lab](https://quantum-computing.
  * [Using Quantum Information Channels](chapter05_Quantum_Information/chapter05-3_Using_Quantum_Information_Channels.ipynb)
  * [Using Quantum Information Measures](chapter05_Quantum_Information/chapter05-4_Using_Quantum_Information_Measures.ipynb)
 ## Chapter 6: Operator Flow
- * Creating Operator Flow Expressions
- * Using the Operator Flow State Function classes
- * Using the Operator Flow Primitive Operators classes
+ * [Creating Operator Flow Expressions](chapter06_Operator_Flow/chapter06-1_Creating_Operator_Flow_Expressions.ipynb)
+ * [Using the Operator Flow State Function classes](chapter06_Operator_Flow/chapter06-2_Using_the_Operator_Flow_State_Function_classes.ipynb)
+ * [Using the Operator Flow Primitive Operators classes](chapter06_Operator_Flow/chapter06-3_Using_the_Operator_Flow_Primitive_Operators_classes.ipynb)
 ## Chapter 7: Quantum Algorithms
 * Background on Quantum Algorithms
 * Using the Algorithms Module
