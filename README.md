@@ -47,7 +47,7 @@ Paste or import an example into the [IBM Quantum Lab](https://quantum-computing.
  * [Using the Aer Simulators](chapter02_Running_Quantum_Circuits/chapter02-2_Using_the_Aer_Simulators.ipynb)
 ## Chapter 3: Visualizing Quantum Measurements and States
  * [Visualizing Measurement Counts](chapter03_Visualizing_Quantum_Measurements_and_States/chapter03-1_Visualizing_Measurement_Counts.ipynb)
- * [Visualizing Quantum States]
+ * [Visualizing Quantum States](chapter03_Visualizing_Quantum_Measurements_and_States/chapter03-2_Visualizing_Quantum_States.ipynb)
 ## Chapter 4: Using the Transpiler
  * Quickstart with Transpile
  * Transpiler Passes
