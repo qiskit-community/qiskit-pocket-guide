@@ -40,8 +40,8 @@ Paste or import an example into the [IBM Quantum Lab](https://quantum-computing.
 
 ## Chapter 1: Quantum Circuits and Operations
  * [Constructing Quantum Circuits](chapter01_Quantum_Circuits_and_Operations/chapter01-1_Constructing_Quantum_Circuits.ipynb)
- * Instructions and Gates
- * Parameterized Quantum Circuits
+ * [Instructions and Gates](chapter01_Quantum_Circuits_and_Operations/chapter01-2_Instructions_and_Gates.ipynb)
+ * [Parameterized Quantum Circuits](chapter01_Quantum_Circuits_and_Operations/chapter01-3_Parameterized_Quantum_Circuits.ipynb)
 ## Chapter 2: Running Quantum Circuits
  * [Using the BasicAer Simulators](chapter02_Running_Quantum_Circuits/chapter02-1_Using_the_BasicAer_Simulators.ipynb)
  * [Using the Aer Simulators](chapter02_Running_Quantum_Circuits/chapter02-2_Using_the_Aer_Simulators.ipynb)
